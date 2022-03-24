@@ -92,6 +92,10 @@ IJCV 2022. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao
 *Yaxing Wang, Joost van de weijer, Lu Yu, Shangling Jui.*<br>
 ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
+**ISF-GAN: An Implicit Style Function for High-Resolution Image-to-Image Translation.**<br>
+*Yahui Liu, Yajing Chen, Linchao Bao, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>
+IEEE TMM 2022. [[PDF](https://arxiv.org/abs/2109.12492)] [[Github](https://github.com/yhlleo/stylegan-mmuit)]
+
 ## 2021
 ### ICCV 2021
 [[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
@@ -265,10 +269,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Github](https://github.c
 **Leveraging Local Domains for Image-to-Image Translation.**<br>
 *Anthony Dell'Eva, Fabio Pizzati, Massimo Bertozzi, Raoul de Charette.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2109.04468)]
-
-**ISF-GAN: An Implicit Style Function for High-Resolution Image-to-Image Translation.**<br>
-*Yahui Liu, Yajing Chen, Linchao Bao, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2109.12492)] [[Github](https://github.com/yhlleo/stylegan-mmuit)]
 
 **AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
 *Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>
